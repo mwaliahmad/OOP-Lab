@@ -407,7 +407,7 @@ namespace Task01
                     for (int x = 0; x < orderinInt; x++)
                     {
                         setinInt[x] = int.Parse(PizzaParseDataSet(set, x));
-                        Console.WriteLine(setinInt[x]);
+                      //Console.WriteLine(setinInt[x]);
                         if (setinInt[x] >= PriceOrder)
                         {
                             count++;
@@ -418,7 +418,7 @@ namespace Task01
                     {
                     }*/
 
-                    if (count == InputOrder)
+                    if (count >= InputOrder)
                     {
                         Console.WriteLine(name);
                     }
