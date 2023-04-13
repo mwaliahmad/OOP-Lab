@@ -1,7 +1,0 @@
-D:\GitHub\OOP Lab\Week01\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
-D:\GitHub\OOP Lab\Week01\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
-D:\GitHub\OOP Lab\Week01\Tasks\Tasks\bin\Debug\Tasks.exe.config
-D:\GitHub\OOP Lab\Week01\Tasks\Tasks\bin\Debug\Tasks.exe
-D:\GitHub\OOP Lab\Week01\Tasks\Tasks\bin\Debug\Tasks.pdb
-D:\GitHub\OOP Lab\Week01\Tasks\Tasks\obj\Debug\Tasks.exe
-D:\GitHub\OOP Lab\Week01\Tasks\Tasks\obj\Debug\Tasks.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\OOP Lab\Week02\Challanges\Challanges\bin\Debug\Challanges.exe.config
+D:\GitHub\OOP Lab\Week02\Challanges\Challanges\bin\Debug\Challanges.exe
+D:\GitHub\OOP Lab\Week02\Challanges\Challanges\bin\Debug\Challanges.pdb
+D:\GitHub\OOP Lab\Week02\Challanges\Challanges\obj\Debug\Challanges.csproj.AssemblyReference.cache
+D:\GitHub\OOP Lab\Week02\Challanges\Challanges\obj\Debug\Challanges.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP Lab\Week02\Challanges\Challanges\obj\Debug\Challanges.exe
+D:\GitHub\OOP Lab\Week02\Challanges\Challanges\obj\Debug\Challanges.pdb

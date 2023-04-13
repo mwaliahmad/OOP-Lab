@@ -1,0 +1,7 @@
+D:\GitHub\OOP Lab\Week02\SMS\SMS\bin\Debug\SMS.exe.config
+D:\GitHub\OOP Lab\Week02\SMS\SMS\bin\Debug\SMS.exe
+D:\GitHub\OOP Lab\Week02\SMS\SMS\bin\Debug\SMS.pdb
+D:\GitHub\OOP Lab\Week02\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+D:\GitHub\OOP Lab\Week02\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP Lab\Week02\SMS\SMS\obj\Debug\SMS.exe
+D:\GitHub\OOP Lab\Week02\SMS\SMS\obj\Debug\SMS.pdb
