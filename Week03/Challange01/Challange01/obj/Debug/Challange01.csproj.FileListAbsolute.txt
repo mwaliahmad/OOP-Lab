@@ -1,0 +1,7 @@
+D:\GitHub\OOP Lab\Week03\Challange01\Challange01\bin\Debug\Challange01.exe.config
+D:\GitHub\OOP Lab\Week03\Challange01\Challange01\bin\Debug\Challange01.exe
+D:\GitHub\OOP Lab\Week03\Challange01\Challange01\bin\Debug\Challange01.pdb
+D:\GitHub\OOP Lab\Week03\Challange01\Challange01\obj\Debug\Challange01.csproj.AssemblyReference.cache
+D:\GitHub\OOP Lab\Week03\Challange01\Challange01\obj\Debug\Challange01.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP Lab\Week03\Challange01\Challange01\obj\Debug\Challange01.exe
+D:\GitHub\OOP Lab\Week03\Challange01\Challange01\obj\Debug\Challange01.pdb

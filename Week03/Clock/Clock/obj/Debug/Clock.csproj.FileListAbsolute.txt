@@ -1,0 +1,7 @@
+D:\GitHub\OOP Lab\Week03\Clock\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+D:\GitHub\OOP Lab\Week03\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP Lab\Week03\Clock\Clock\bin\Debug\Clock.exe.config
+D:\GitHub\OOP Lab\Week03\Clock\Clock\bin\Debug\Clock.exe
+D:\GitHub\OOP Lab\Week03\Clock\Clock\bin\Debug\Clock.pdb
+D:\GitHub\OOP Lab\Week03\Clock\Clock\obj\Debug\Clock.exe
+D:\GitHub\OOP Lab\Week03\Clock\Clock\obj\Debug\Clock.pdb

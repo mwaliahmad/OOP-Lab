@@ -1,0 +1,7 @@
+D:\GitHub\OOP Lab\Week03\Task01\Task01\bin\Debug\Task01.exe.config
+D:\GitHub\OOP Lab\Week03\Task01\Task01\bin\Debug\Task01.exe
+D:\GitHub\OOP Lab\Week03\Task01\Task01\bin\Debug\Task01.pdb
+D:\GitHub\OOP Lab\Week03\Task01\Task01\obj\Debug\Task01.csproj.AssemblyReference.cache
+D:\GitHub\OOP Lab\Week03\Task01\Task01\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP Lab\Week03\Task01\Task01\obj\Debug\Task01.exe
+D:\GitHub\OOP Lab\Week03\Task01\Task01\obj\Debug\Task01.pdb
