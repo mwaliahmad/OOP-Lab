@@ -33,6 +33,8 @@ namespace Problem02.BL
         public Point Start;
         public Boundary Premises;
         public string Direction;
+        public string Movement = "left";
+        public int Step = 0;
         public void Draw()
         {
             int x = Start.X;
@@ -63,17 +65,65 @@ namespace Problem02.BL
         }
         public void Move()
         {
-            if (Direction == "LeftToRight" && (Start.X > 0 && Start.X < 90) && (Start.Y > 0 && Start.Y < 90))
+            if (Direction == "LeftToRight" && (Start.X >= 0 && Start.X <= 90) && (Start.Y >= 0 && Start.Y <= 90))
             {
                 Start.X++;
             }
-            if (Direction == "RightToLeft" && (Start.X > 0 && Start.X < 90) && (Start.Y > 0 && Start.Y < 90))
+            if (Direction == "RightToLeft" && (Start.X >= 0 && Start.X <= 90) && (Start.Y >= 0 && Start.Y <= 90))
             {
                 Start.X--;
             }
-            if (Direction == "Patrol" && (Start.X > 0 && Start.X < 90) && (Start.Y > 0 && Start.Y < 90))
+            if (Direction == "Patrol" && (Start.X >= 0 && Start.X <= 90) && (Start.Y >= 0 && Start.Y <= 90))
             {
-                Start.X--;
+                if (Movement == "left")
+                {
+                    Start.X--;
+                }
+                if (Start.X == 0)
+                {
+                    Movement = "right";
+                }
+                if (Movement == "right")
+                {
+                    Start.X++;
+                }
+                if (Start.X == 90)
+                {
+                    Movement = "left";
+                }
+            }
+            if (Direction == "Diagonal" && (Start.X >= 0 && Start.X <= 90) && (Start.Y >= 0 && Start.Y <= 90))
+            {
+                Start.X++;
+                Start.Y++;
+            }
+            if (Direction == "Projectile" && (Start.X >= 0 && Start.X <= 90) && (Start.Y >= 0 && Start.Y <= 90))
+            {
+                if (Movement == "left")
+                {
+                    Start.Y--;
+                    Step++;
+                }
+                if (Movement == "left" && Step == 5)
+                {
+                    Movement = "right";
+                    Step = 1;
+                }
+                if (Movement == "right")
+                {
+                    Start.X++;
+                    Step++;
+                }
+                if (Movement == "right" && Step == 2)
+                {
+                    Movement = "bottom";
+                    Step = 1;
+                }
+                if (Movement == "bottom" && Step <=4)
+                {
+                    Start.Y++;
+                    Step++;
+                }  
             }
         }
     }

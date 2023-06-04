@@ -1,0 +1,7 @@
+D:\GitHub\OOP Lab\Week07\Chanllenge01\Chanllenge01\bin\Debug\Chanllenge01.exe.config
+D:\GitHub\OOP Lab\Week07\Chanllenge01\Chanllenge01\bin\Debug\Chanllenge01.exe
+D:\GitHub\OOP Lab\Week07\Chanllenge01\Chanllenge01\bin\Debug\Chanllenge01.pdb
+D:\GitHub\OOP Lab\Week07\Chanllenge01\Chanllenge01\obj\Debug\Chanllenge01.csproj.AssemblyReference.cache
+D:\GitHub\OOP Lab\Week07\Chanllenge01\Chanllenge01\obj\Debug\Chanllenge01.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP Lab\Week07\Chanllenge01\Chanllenge01\obj\Debug\Chanllenge01.exe
+D:\GitHub\OOP Lab\Week07\Chanllenge01\Chanllenge01\obj\Debug\Chanllenge01.pdb
