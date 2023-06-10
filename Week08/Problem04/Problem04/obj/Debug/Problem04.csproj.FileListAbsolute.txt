@@ -1,0 +1,7 @@
+D:\GitHub\OOP Lab\Week08\Problem04\Problem04\bin\Debug\Problem04.exe.config
+D:\GitHub\OOP Lab\Week08\Problem04\Problem04\bin\Debug\Problem04.exe
+D:\GitHub\OOP Lab\Week08\Problem04\Problem04\bin\Debug\Problem04.pdb
+D:\GitHub\OOP Lab\Week08\Problem04\Problem04\obj\Debug\Problem04.csproj.AssemblyReference.cache
+D:\GitHub\OOP Lab\Week08\Problem04\Problem04\obj\Debug\Problem04.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP Lab\Week08\Problem04\Problem04\obj\Debug\Problem04.exe
+D:\GitHub\OOP Lab\Week08\Problem04\Problem04\obj\Debug\Problem04.pdb
